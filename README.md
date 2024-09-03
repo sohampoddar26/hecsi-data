@@ -53,7 +53,7 @@ The input data file should be of the same format as given, and the output preds 
 ## Citation
 If you use our dataset, please cite the following paper:
 ```
-@inproceedings{poddar2023overview,
+@inproceedings{poddar2024csi,
   title={ICPR 2024 Competition on Multilingual Claim-Span Identification},
   author={Poddar, Soham and Paul, Biswajit and Basu, Moumita and and Ghosh, Saptarshi},
   booktitle={Proceedings of the 27th ICPR Competitions},
