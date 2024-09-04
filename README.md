@@ -56,7 +56,7 @@ If you use our dataset, please cite the following paper:
 @inproceedings{poddar2024csi,
   title={ICPR 2024 Competition on Multilingual Claim-Span Identification},
   author={Poddar, Soham and Paul, Biswajit and Basu, Moumita and and Ghosh, Saptarshi},
-  booktitle={Proceedings of the 27th ICPR Competitions},
+  booktitle={Proceedings of the 27th International Conference on Pattern Recognition},
   year={2024}
 }
 ```
